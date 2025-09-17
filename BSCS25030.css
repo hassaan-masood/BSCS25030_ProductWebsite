@@ -1,0 +1,229 @@
+.headd{
+
+    font-size: larger;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    color: black;
+    height: auto;
+    background-color: rgb(255, 99, 99); 
+    border: black solid;
+    border-color: black;
+    border-width: 5px;
+}
+
+.title
+{
+    display: flex;
+    width: 70px;
+    height: 70px;
+    border-radius: 60px;
+    margin: auto;
+}
+
+.intro
+{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+}
+.Mybutton
+{
+    width: 300px;
+    margin: 29px;
+    height: 33px;
+    background-color: rgb(152, 162, 162);
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    border-radius: 10px;
+}
+
+.abt
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 30px;
+    background-color: rgb(184, 78, 255);
+    border: black solid;
+    border-color: rgb(255, 99, 99);
+    border-width: 70px;
+}
+
+.main
+{
+    width: 98.7%;
+    position: relative;
+    border: black solid;
+    border-color: blue;
+    border-width: 10px;
+}
+
+.txt
+{
+    position: absolute;
+    top: 37%;
+    left: 38%;
+    font-size: 30px;
+    color: rgb(0, 0, 0);
+}
+
+.exp
+{
+    width: 98.7%;
+    position: relative;
+    border: black solid;
+    border-color: blue;
+    border-width: 10px;
+}
+
+.txt2
+{
+    position: absolute;
+    top: 130%;
+    left: 35%;
+    font-size: 30px;
+    color: rgb(255, 0, 0);   
+}
+
+.but
+{
+    position: absolute;
+    top: 137%;
+    left: 3%;
+}
+
+.end1
+{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+    color: rgb(0, 0, 0);
+    height: auto;
+    background-color: rgb(255, 99, 99); 
+    border: 10px solid rgb(0, 0, 0);
+    font-size: 22px;
+}
+
+.cnt
+{
+
+    background-color: blueviolet;
+}
+
+.Page2
+{
+    background-color: rgb(255, 86, 252);
+    border: black solid;
+    border-color: blue;
+    border-width: 10px;
+}
+
+.p1
+{
+    width: 30%;
+}
+.p2
+{
+     width: 35%;
+}
+.i{
+    display: flex;
+    flex-direction: row;
+    padding: 2em;
+}
+.Page3
+{
+    background-color: rgb(98, 167, 247);
+    border: black solid;
+    border-color: rgb(255, 0, 0);
+    border-width: 10px;
+}
+
+.Page4
+{
+    background-color: rgb(255, 101, 132);
+    border: black solid;
+    border-color: rgb(144, 0, 255);
+    border-width: 10px;
+}
+.Page5
+{
+    background-color: rgb(127, 247, 90);
+    border: black solid;
+    border-color: rgb(255, 78, 78);
+    border-width: 10px;
+}
+
+.Page6
+{
+    background-color: rgb(153, 127, 245);
+    border: black solid;
+    border-color: rgb(38, 0, 255);
+    border-width: 10px;
+}
+
+.snap
+{
+    
+    color: rgb(0, 0, 0);
+    height: auto;
+    background-color: rgb(72, 87, 223); 
+    border: 2px solid rgb(251, 29, 0);
+    border-radius: 5px;
+    font-size: 22px;
+}
+
+.fbi
+{
+    background-color: rgb(128, 255, 147);
+}
+
+.facebook
+{
+    width: 10%;
+    border-radius: 10px;
+}
+
+.insta
+{
+    width: 10%;
+    border-radius: 10px;
+}
+
+.links
+{
+    color: rgb(0, 0, 0);
+    height: auto;
+    background-color: rgb(222, 91, 91); 
+    border: 2px solid rgb(8, 0, 251);
+    border-radius: 5px;
+    font-size: 50px;
+}
+.in
+{
+    width: 13%;
+    border-radius: 10px;
+}
+
+#myForm
+{
+    height: 150px;
+    width: auto;
+    background-color: rgb(153, 127, 245);
+    border-radius: 5px;   
+}
+
+
+
+
+
+
+
+
+
+
+
+
